@@ -1,0 +1,64 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Pericles",
+      "company": "Jhonson",
+      "email": "pericles@gmail.com",
+      "title": "Admin",
+      "mobile": "987 234 523",
+      "photo": "https://imagikids.com/cdn/shop/collections/Mandalorian.png?v=1643641058",
+      "groupId": "2"
+    },
+    {
+      "id": "2",
+      "name": "Gato",
+      "company": "Jhonson",
+      "email": "gato@gmail.com",
+      "title": "Manager",
+      "mobile": "123 234 003",
+      "photo": "https://image.pngaaa.com/49/88049-middle.png",
+      "groupId": "1"
+    },
+    {
+      "id": "3",
+      "name": "Lola",
+      "company": "Jhonson",
+      "email": "lola@gmail.com",
+      "title": "Manager",
+      "mobile": "456 234 500",
+      "photo": "https://milnersblog.files.wordpress.com/2015/09/the-art-of-star-wars-the-force-awakens-icons-stormtrooper.png",
+      "groupId": "1"
+    },
+    {
+      "id": "4",
+      "name": "July",
+      "company": "Jhonson",
+      "email": "july@gmail.com",
+      "title": "Manager",
+      "mobile": "123 234 003",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxwWx-xgKyOLUtaV-bq41kffhdFO_rWM17A&usqp=CAU",
+      "groupId": "1"
+    },
+    {
+      "name": "Despeinado",
+      "photo": "https://comic-cons.xyz/wp-content/uploads/Star-Wars-avatar-icon-C3PO.png",
+      "email": "despeinado@gmail.com",
+      "mobile": 123556666,
+      "company": "Pets",
+      "title": "Administrador",
+      "groupId": "1",
+      "id": "DL17kQl"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Family"
+    },
+    {
+      "id": "2",
+      "name": "Friends"
+    }
+  ]
+}
